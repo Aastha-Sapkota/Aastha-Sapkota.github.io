@@ -1,0 +1,26 @@
+body {
+    background-color: cornflowerblue;
+    background-image: url(https://i.pinimg.com/originals/6a/29/77/6a297738ce25c9b3fcb0c300880a7058.jpg);
+}
+h1{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: LucidaSans;
+    border: 2px solid rgb(172, 161, 147);
+    padding: 10px;
+    box-sizing: border-box; border-width: 15px; 
+    
+}
+p{
+    font-family: LucidaSans;
+    text-align: center;
+    font-size: 130%;
+}
+.row{
+    float: left;
+}
+h2{
+    font-family: LucidaSans;
+    text-align: center;
+    font-size: 130%;
+}
